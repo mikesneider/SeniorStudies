@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub\SeniorStudies\SeniorC\obj\Debug\net6.0\SeniorC.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub\SeniorStudies\SeniorC\obj\Debug\net6.0\SeniorC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\SeniorStudies\SeniorC\obj\Debug\net6.0\SeniorC.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\SeniorStudies\SeniorC\obj\Debug\net6.0\SeniorC.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\SeniorStudies\SeniorC\obj\Debug\net6.0\SeniorC.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\SeniorStudies\SeniorC\bin\Debug\net6.0\SeniorC.exe
+C:\Users\pc\Documents\GitHub\SeniorStudies\SeniorC\bin\Debug\net6.0\SeniorC.deps.json
+C:\Users\pc\Documents\GitHub\SeniorStudies\SeniorC\bin\Debug\net6.0\SeniorC.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\SeniorStudies\SeniorC\bin\Debug\net6.0\SeniorC.dll
+C:\Users\pc\Documents\GitHub\SeniorStudies\SeniorC\bin\Debug\net6.0\SeniorC.pdb
+C:\Users\pc\Documents\GitHub\SeniorStudies\SeniorC\obj\Debug\net6.0\SeniorC.dll
+C:\Users\pc\Documents\GitHub\SeniorStudies\SeniorC\obj\Debug\net6.0\refint\SeniorC.dll
+C:\Users\pc\Documents\GitHub\SeniorStudies\SeniorC\obj\Debug\net6.0\SeniorC.pdb
+C:\Users\pc\Documents\GitHub\SeniorStudies\SeniorC\obj\Debug\net6.0\SeniorC.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub\SeniorStudies\SeniorC\obj\Debug\net6.0\ref\SeniorC.dll
